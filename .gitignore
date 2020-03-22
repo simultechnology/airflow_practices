@@ -1,3 +1,5 @@
 .venv
 logs
 airflow.db
+
+.idea
